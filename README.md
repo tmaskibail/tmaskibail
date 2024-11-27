@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tmaskibail
 - 👀 I’m interested in all things in technology
-- 🌱 I’m currently building solutions using Google AI/ML tools 
+- 🌱 I’m currently building data analytics solutions for a large bank in the US
 - 💞️ I’m looking to collaborate on anything related to technology
 - 📫 Reach out to me on Linkedin
 
